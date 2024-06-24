@@ -1,0 +1,16 @@
+{
+    "name": "danilocgsilva/projects-catalog",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\ProjectsCatalog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Carlos",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
