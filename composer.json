@@ -1,6 +1,6 @@
 {
     "name": "danilocgsilva/projects-catalog",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Danilocgsilva\\ProjectsCatalog\\": "src/"
